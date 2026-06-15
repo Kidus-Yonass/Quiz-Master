@@ -1,0 +1,20 @@
+What is the powerhouse of the cell?,Nucleus,Mitochondria,Ribosome,Golgi body,B,Science,Easy
+What planet is closest to the Sun?,Venus,Mars,Mercury,Earth,C,Science,Easy
+How many bones are in the adult human body?,206,186,226,196,A,Science,Medium
+What is the chemical symbol for gold?,Ag,Au,Go,Gd,B,Science,Medium
+What is the speed of light in a vacuum (approx)?,300000 km/s,150000 km/s,450000 km/s,200000 km/s,A,Science,Hard
+In what year did World War II end?,1943,1944,1945,1946,C,History,Easy
+Who was the first President of the United States?,John Adams,Thomas Jefferson,George Washington,Benjamin Franklin,C,History,Easy
+Which empire was ruled by Julius Caesar?,Greek Empire,Ottoman Empire,Roman Empire,Byzantine Empire,C,History,Medium
+The Berlin Wall fell in which year?,1987,1988,1989,1990,C,History,Medium
+Who was the Egyptian queen famously allied with Julius Caesar?,Nefertiti,Cleopatra,Hatshepsut,Isis,B,History,Hard
+How many players are on a standard soccer team on the field?,9,10,11,12,C,Sports,Easy
+In which sport would you perform a slam dunk?,Volleyball,Basketball,Tennis,Baseball,B,Sports,Easy
+How many Grand Slam tournaments are there in tennis?,2,3,4,5,C,Sports,Medium
+Which country invented the sport of cricket?,Australia,India,England,South Africa,C,Sports,Medium
+How many rings are on the Olympic flag?,4,5,6,7,B,Sports,Hard
+What does CPU stand for?,Central Processing Unit,Computer Personal Unit,Central Program Utility,Core Processing Unit,A,Technology,Easy
+Which company created the Java programming language?,Microsoft,Apple,Sun Microsystems,IBM,C,Technology,Easy
+What does HTTP stand for?,HyperText Transfer Protocol,High Tech Transfer Process,HyperText Transmission Program,Home Tool Transfer Protocol,A,Technology,Medium
+Which data structure follows the Last In First Out principle?,Queue,Stack,Array,Linked List,B,Technology,Medium
+What is the binary representation of the decimal number 10?,1000,1010,1100,1001,B,Technology,Hard
